@@ -3,7 +3,7 @@
 ## Introduction
 According to the *Regulation of the People's Republic of China on the Administration of Human Genetic Resources*, the external provision of human genetic resources shall be vetted. We will update the accession number of public database as soon as we finish the ethical review and declaration.
 
-# Sequencing Data
+## Sequencing Data
  
 _The annotated table of sequence data can be downloaded [here].(https://docs.google.com/spreadsheets/d/1hIEIqh9YgtqzZT6yEDwl8XDAXTiX7X-sUQ8Apl94mRA/edit?usp=sharing)_
 
